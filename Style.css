@@ -14,6 +14,7 @@
 
 #row3,#row5{
 	background-color:rgb(180,180,180);
+	height:150vh;
 }
 
 #row4{
@@ -24,9 +25,11 @@
 	height:100vh;
 	
 }
-#two
+#img1, #img2
 {
   display: none;
+  height:900px;
+  width:900px
 }
 body
 {
@@ -38,4 +41,9 @@ background-color: white;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+h1{
+	margin:0px;
+	font-family:arial
 }
