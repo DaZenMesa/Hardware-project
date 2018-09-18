@@ -48,5 +48,18 @@ background-color: white;
 
 h1{
 	margin:0px;
+<<<<<<< HEAD
 	font-family:none;
 }
+=======
+	font-family:arial
+}
+
+.Text{
+	
+	font-size: 1000px;
+	text-align: center;
+	
+	
+	}
+>>>>>>> fcd59e0f7cd26e85bfd5eabe5c21a28a045b7422
