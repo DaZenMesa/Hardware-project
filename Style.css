@@ -48,6 +48,7 @@ background-color: white;
 
 h1{
 	margin:0px;
+
 	font-family:none;
 }
 
@@ -56,8 +57,17 @@ h1{
 .Text{
 	
 	font-size: 1000px;
+
+	font-family:none;
+}
+.center{
+	color:white;
+	font-size: 50px;
+
 	text-align: center;
+	padding-top:0px;
+	margin-top:0px;
 	
 	
 	}
- 
+
